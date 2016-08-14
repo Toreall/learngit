@@ -5,4 +5,3 @@ Git tracks changes of files.
 Creating a new branch is quick.
 what a good name.
 shen me gui.
-i know it.
